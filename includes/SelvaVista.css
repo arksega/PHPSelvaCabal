@@ -1,0 +1,91 @@
+      .TitleFont
+      {
+        font: 24pt helvetica;
+        padding-bottom: 1em;
+        margin-bottom: -1em;
+      }
+
+      .SubTitleFont
+      {
+        font: 18pt helvetica;
+      }
+
+      .SmallTextFont
+      {
+        font: 9pt helvetica;
+      }
+
+      .LargeTextFont
+      {
+        font: 12pt helvetica;
+      }
+
+      .Yellow
+      {
+        color: #fff900;
+      }
+
+      .Orange
+      {
+        color: #ffa900;
+      }
+
+      .Bold
+      {
+        font-weight:bold;
+      }
+
+      .Cntr
+      {
+        text-align:center;
+      }
+
+      body
+      {
+        background-color:#116611;
+      }
+
+      div.content
+      {
+        width: 95%;
+        float: left;
+        font: 10pt helvetica;
+        color: #071b00;
+        vertical-align: top;
+        height: 95%;
+      }
+
+      div.content-head
+      {
+      }
+
+      div.content-head p
+      {
+        text-align: center;
+      }
+
+      div.content-main
+      {
+        position: relative;
+      }
+
+      div.content-main p
+      {
+        padding-left: 1em;
+        padding-right: 1em;
+        text-align: left;
+      }
+
+      div.content-footer
+      {
+        position: relative;
+        text-align: center;
+        font: 12pt helvetica;
+        color: #eeeeee;
+      }
+
+      div.content-footer a
+      {
+        font: 12pt helvetica;
+        color: #eeeeee;
+      }
